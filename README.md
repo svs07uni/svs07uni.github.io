@@ -1,1 +1,2 @@
-# svs07uni.github.io
+Repositorio para IA en Juegos
+Silvia Soto
